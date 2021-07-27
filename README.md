@@ -1,5 +1,5 @@
 # Assignment 1
-###Q1)
+### Q1)
 
 * created a world file demo_bot.world using the gazebo application. 
 
@@ -21,7 +21,7 @@ the screenshots are:
 
 
 
-###Q2)
+### Q2)
 
 * spent a lot of time on this urdf part. i made a urdf file named demo-bot.urdf present in ( src/demo_bot_description/urdf ) but dont kow why it did not work even after i tried adjusting so many of its parameters. i even refered other working urdf files but could not find out the problem with my urdf file (it did not appear in the gazebo interface even after adding its path in the GAZEBO_MODEL_PATH variable.
 
