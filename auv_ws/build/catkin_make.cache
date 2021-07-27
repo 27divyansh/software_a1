@@ -1,0 +1,2 @@
+demo_bot_description:demo_bot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/divyansh/auv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/divyansh/auv_ws/install -G Unix Makefiles
